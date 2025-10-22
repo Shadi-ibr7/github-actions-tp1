@@ -1,0 +1,1 @@
+3. Il s’agit d’un emplacement spécial où GitHub Actions va automatiquement détecter et exécuter les fichiers YAML de workflows.
